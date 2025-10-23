@@ -4,13 +4,18 @@ Use 3rd TOTP apps instead of Coremail to login ShanghaiTech Mail.
 
 使用第三方验证器代替 Coremail 论客的 TOTP 动态密码来登录上海科技大学邮箱。
 
+![GitHub last commit](https://img.shields.io/github/last-commit/ShanghaitechGeekPie/ShanghaiTech-Mail-TOTP)
+![GitHub License](https://img.shields.io/github/license/ShanghaitechGeekPie/ShanghaiTech-Mail-TOTP)
+![GitHub Repo stars](https://img.shields.io/github/stars/ShanghaitechGeekPie/ShanghaiTech-Mail-TOTP)
+
 > [!Warning]
 > **注意**
-> 本项目不是官方脚本，不保证接口等长久可用。
-> 在添加 TOTP 验证前，请务必确保**你已经添加至少一种可用的备选验证方案**！
-> 这是因为添加的验证器不会与 Coremail 绑定，故无法通过 APP 验证的方式找回。如需要通过验证器验证，请选择验证码并输入动态密码，或者使用短信、备用邮箱等验证方案。
+> 
+> - 本项目不是官方脚本，不保证接口等长久可用。
+> - 在添加 TOTP 验证前，请务必确保**你已经添加至少一种可用的备选验证方案**！
+> - 这是因为添加的验证器不会与 Coremail 绑定，故无法通过 APP 验证的方式找回。如需要通过验证器验证，请选择验证码并输入动态密码，或者使用短信、备用邮箱等验证方案。
 
-欢迎 Star~
+欢迎 PR & Star~
 
 ## Setup & Usage
 
@@ -26,3 +31,9 @@ TBD
 ## License
 
 基于 MIT 协议开源。
+
+## Contrib
+
+<a href="https://github.com/ShanghaitechGeekPie/ShanghaiTech-Mail-TOTP/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ShanghaitechGeekPie/ShanghaiTech-Mail-TOTP" />
+</a>
