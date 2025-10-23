@@ -9,6 +9,8 @@
 // @grant        none
 // @require      https://unpkg.com/jsqr@latest/dist/jsQR.js
 // @require      https://cdn.jsdelivr.net/npm/qrcode/build/qrcode.min.js
+// @downloadURL  https://github.com/ShanghaitechGeekPie/ShanghaiTech-Mail-TOTP/raw/refs/heads/main/shtu-mail-totp.user.js
+// @updateURL    https://github.com/ShanghaitechGeekPie/ShanghaiTech-Mail-TOTP/raw/refs/heads/main/shtu-mail-totp.user.js
 // ==/UserScript==
 
 (function () {
